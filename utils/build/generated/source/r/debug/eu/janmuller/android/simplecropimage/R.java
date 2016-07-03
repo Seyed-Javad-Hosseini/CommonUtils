@@ -18,25 +18,25 @@ public final class R {
 		public static final int selector_crop_button = 0x7f02005b;
 	}
 	public static final class id {
-		public static final int discard = 0x7f0900af;
-		public static final int image = 0x7f09002b;
-		public static final int rotateLeft = 0x7f0900b0;
-		public static final int rotateRight = 0x7f0900b1;
-		public static final int save = 0x7f0900b2;
+		public static final int discard = 0x7f0c00af;
+		public static final int image = 0x7f0c002b;
+		public static final int rotateLeft = 0x7f0c00b0;
+		public static final int rotateRight = 0x7f0c00b1;
+		public static final int save = 0x7f0c00b2;
 	}
 	public static final class layout {
 		public static final int cropimage = 0x7f03003c;
 		public static final int main = 0x7f030043;
 	}
 	public static final class string {
-		public static final int cancel = 0x7f0b0013;
-		public static final int no_storage_card = 0x7f0b0015;
-		public static final int not_enough_space = 0x7f0b0016;
-		public static final int preparing_card = 0x7f0b0017;
-		public static final int save = 0x7f0b0018;
-		public static final int saving_image = 0x7f0b0019;
+		public static final int cancel = 0x7f06000d;
+		public static final int no_storage_card = 0x7f06000e;
+		public static final int not_enough_space = 0x7f06000f;
+		public static final int preparing_card = 0x7f060010;
+		public static final int save = 0x7f060011;
+		public static final int saving_image = 0x7f060012;
 	}
 	public static final class style {
-		public static final int CropButton = 0x7f0c0082;
+		public static final int CropButton = 0x7f0800a5;
 	}
 }
